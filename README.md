@@ -6,6 +6,15 @@ To Write a Java program to compare two numbers
 
 ## Algorithm:
 
+1. Declare two variables to hold the numbers you want to compare.
+ 
+2. Use an if-else statement to compare the numbers.
+ 
+3. If the first number is greater than the second number, print a message indicating that the first number is greater.
+ 
+4. If the second number is greater than the first number, print a message indicating that the second number is greater.
+
+5. If the numbers are equal, print a message indicating that the numbers are equal.
 
 ## Program:
 ``` java
